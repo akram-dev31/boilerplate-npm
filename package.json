@@ -7,8 +7,10 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "islam",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	
 }
